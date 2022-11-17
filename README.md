@@ -1,7 +1,7 @@
 # image_processing_package
 
 Description. 
-The package image_processing_package is used to:
+The package image_processing_package1.1.3 is used to:
 Processing
 	- Histogram matching
 	- Structural similarity
@@ -14,10 +14,10 @@ Utils:
 
 ## Installation
 
-Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_package
+Use the package manager [pip](https://pip.pypa.io/en/stable/) to install image_processing_package1.1.3
 
 ```bash
-pip install image_processing_package
+pip install image_processing_package1.1.3
 ```
 
 

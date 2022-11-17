@@ -7,14 +7,14 @@ with open("requires.txt") as f:
     requirements = f.read().splitlines()
 
 setup(
-    name="image_processing_package",
+    name="image_processing_package1.1.3",
     version="0.1.2",
-    author="Vanessa Brandão",
+    author="Vanessa Brandao",
     author_email="vbrandadao.gel@gmail.com",
-    description="Criação de pacotes de processamento de imagens em Python",
+    description="Pacote de processamento de imagens em Python",
     long_description=page_description,
     long_description_content_type="text/markdown",
-    url="https://github.com/VanessaBMizuno/Image_Processing",
+    url="https://github.com/VanessaBMizuno/Processamento-de-imagens-em-Python.git",
     packages=find_packages(),
     install_requires=requirements,
     python_requires='>=3.8',
